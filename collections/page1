@@ -1,0 +1,112 @@
+[
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Jennifer",
+        "last_name": "Adams,",
+        "title": "Special Education Teacher",
+        "phone": "(952) 442-0690",
+        "email": "jadams@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Allison",
+        "last_name": "Baisch,",
+        "title": "Kindergarten Teacher",
+        "phone": "(952) 442-0690",
+        "email": "abaisch@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Keith",
+        "last_name": "Baune,",
+        "title": "Principal",
+        "phone": "(952) 442-0690",
+        "email": "kbaune@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Allyson",
+        "last_name": "Benham,",
+        "title": "Grade 2 Teacher",
+        "phone": "(952) 442-0690",
+        "email": "abenham@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Jeff",
+        "last_name": "Bessire,",
+        "title": "Physical Education/DAPE Teacher",
+        "phone": "(952) 442-0630",
+        "email": "jbessire@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Tyler",
+        "last_name": "Bixby,",
+        "title": "Educational Assistant (SPED)",
+        "phone": "(952) 442-0690",
+        "email": "tbixby@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Alexa",
+        "last_name": "Bjerke,",
+        "title": "Kids' Company Lead",
+        "phone": "(952) 442-0610",
+        "email": "abjerke@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Shannon",
+        "last_name": "Brueggemeier-Swanson,",
+        "title": "Educational Assistant",
+        "phone": "(952) 442-0690",
+        "email": "sswanson@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Jessica",
+        "last_name": "Burdick,",
+        "title": "Learning Disabilities Teacher",
+        "phone": "(952) 442-0690",
+        "email": "jburdick@isd110.org"
+    },
+    {
+        "school_name": "Waconia Public Schools",
+        "address": "960 Airport Road Waconia, MN 55387",
+        "state": "MN",
+        "zip": "55387",
+        "first_name": "Lindsay",
+        "last_name": "Butzer,",
+        "title": "School Counselor",
+        "phone": "(952) 442-0690",
+        "email": "lbutzer@isd110.org"
+    }
+]
